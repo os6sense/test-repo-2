@@ -1,8 +1,5 @@
 ---
-#
-# Changes to this file will trigger deployments and builds
-# https://github.com/MyMedsAndMe/m3-infrastructure/blob/master/docs/m3/brands/build_and_deployments.md
-#
-version: 0293ad23f2e2a86a3ae819a28cd4213e3d53617e
+version: 889623a4e706ecdce18768aa987fd8692d92809a
 force_tasks: true
-# datestamp: dafl.odsa Tue 23 Feb 2021 15:27:00 UTC
+
+# datestamp: fred 2021-06-08T15:12:06+01:00
